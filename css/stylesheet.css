@@ -1,0 +1,164 @@
+*{
+    font-family: 'Lato', sans-serif;
+}
+.header{
+    background-color: rgb(106, 1, 155);
+    display: flex;
+    column-gap: 5%;
+    color: white;
+    font-weight: bolder;
+}
+
+#bake{
+    width: 45%;
+    margin-left: 10%;
+    font-size: xx-large;
+}
+
+#home, #intro, #service, #about{
+    padding-top: 1.5%;
+}
+
+#cupcake_img{
+    width: 100%;
+}
+
+#centered_text{
+    position: absolute;
+    top: 50%;
+    left: 35%;
+}
+
+.img_title{
+    color: gray;
+    font-weight: bolder;
+    font-size: xxx-large;
+}
+
+.img_description{
+    font-size: x-large;
+    color: lightgrey;
+}
+
+.learnmore_button{
+    background-color: rgb(239, 18, 202);
+    color: white;
+    border-color: white;
+    border-radius: 5px;
+    padding: 5%;
+    width: 50%;
+}
+
+.row1_col1{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    width: 25%;
+    padding-top: 9%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.row1_col2{
+    width: 50%;
+}
+
+.row1_col3{
+    background-color: darkred;
+    color: white;
+    text-align: center;
+    width: 25%;
+    padding-top: 9%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.row1, .row2, #row3{
+    display: flex;
+    height: 500px;
+}
+
+.wintercupcake_img{
+    height: 500px;
+    width: 100%;
+}
+
+.row2_col1{
+    background-color: rgb(252, 122, 215);
+    color: white;
+    text-align: center;
+    width: 75%;
+    padding-top: 9%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.row2_col2{
+    width: 50%;
+}
+
+.row2_col3{
+    background-color: rgb(164, 91, 201);
+    color: white;
+    text-align: center;
+    width: 41.7%;
+    padding-top: 9%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+#heartcupcake_img{
+    height: 100%;
+    width: 100%;
+}
+
+.row_img{
+    height: 500px;
+    width: 100%;
+}
+
+#row3_col1{
+    width: 25%;
+}
+
+#row3_col2{
+    background-color: rgb(120, 29, 165);
+    color: white;
+    text-align: center;
+    width: 22.3%;
+    padding-top: 9%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+#row3_col3{
+    width: 60%;
+}
+
+.footer{
+    display: flex;
+    column-gap: 20%;
+    justify-content: center;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+}
+
+.row_h2{
+    color: #a308ab;
+    font-weight: 1000;
+    font-size: xx-large;
+}
+
+.row_h3{
+    font-weight: bolder;
+    font-size: x-large;
+    font-weight: 800;
+}
+
+.col1, .col2, .col3, .col4{
+    text-align: center;
+}
+
+.gray_p{
+    color: lightgray;
+}
